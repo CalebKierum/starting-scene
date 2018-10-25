@@ -5,6 +5,8 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+
+
 # Visual Studio cache directory
 .vs/
 
@@ -34,6 +36,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+
 
 
 # General
