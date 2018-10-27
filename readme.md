@@ -1,6 +1,6 @@
 # Welcome To This Chalet Unity Scene
 
-This project was built in Unity 2018.2.11 and is best opened in that version of Unity.
+This project was built in Unity 2018.2.11 and is best opened in that version of Unity. This repo uses GIT LFS so make sure it is installed before cloning.
 
 This scene is a fairly simple scene with terrain and a large Chalet model with emissive planes providing light from the windows. Inside of its room there is a TV with a couch and lights.
 
